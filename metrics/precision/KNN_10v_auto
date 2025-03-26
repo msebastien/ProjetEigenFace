@@ -1,0 +1,50 @@
+                           precision    recall  f1-score   support
+
+         Alejandro Toledo       0.00      0.00      0.00         8
+             Alvaro Uribe       0.00      0.00      0.00        11
+             Andre Agassi       0.00      0.00      0.00         8
+             Ariel Sharon       0.62      0.20      0.30        25
+    Arnold Schwarzenegger       0.33      0.08      0.13        12
+             Bill Clinton       0.25      0.20      0.22         5
+             Colin Powell       0.55      0.61      0.58        62
+            David Beckham       0.00      0.00      0.00        11
+          Donald Rumsfeld       0.44      0.29      0.35        41
+            George W Bush       0.44      0.89      0.59       133
+        Gerhard Schroeder       0.35      0.30      0.33        23
+  Gloria Macapagal Arroyo       1.00      0.56      0.71         9
+               Gray Davis       0.00      0.00      0.00         3
+          Guillermo Coria       1.00      0.14      0.25         7
+                Hans Blix       1.00      0.12      0.22         8
+              Hugo Chavez       0.43      0.25      0.32        12
+               Jack Straw       0.00      0.00      0.00         2
+           Jacques Chirac       0.50      0.12      0.19        17
+            Jean Chretien       0.50      0.38      0.43        13
+        Jennifer Capriati       0.00      0.00      0.00         5
+            John Ashcroft       0.22      0.55      0.32        11
+          John Negroponte       0.33      0.22      0.27         9
+      Juan Carlos Ferrero       1.00      0.20      0.33         5
+        Junichiro Koizumi       0.82      0.60      0.69        15
+               Kofi Annan       0.50      0.25      0.33         4
+               Laura Bush       0.89      0.62      0.73        13
+           Lleyton Hewitt       1.00      0.18      0.31        11
+Luiz Inacio Lula da Silva       0.83      0.50      0.62        10
+            Mahmoud Abbas       0.00      0.00      0.00         6
+    Megawati Sukarnoputri       0.86      0.67      0.75         9
+          Nestor Kirchner       1.00      0.08      0.15        12
+     Recep Tayyip Erdogan       0.75      0.27      0.40        11
+            Ricardo Lagos       0.25      0.14      0.18         7
+             Roh Moo-hyun       1.00      0.67      0.80         6
+         Rudolph Giuliani       0.00      0.00      0.00         8
+          Serena Williams       0.00      0.00      0.00        10
+        Silvio Berlusconi       0.33      0.09      0.14        11
+              Tom Daschle       0.00      0.00      0.00         6
+                Tom Ridge       1.00      0.14      0.25         7
+               Tony Blair       0.24      0.68      0.36        38
+              Vicente Fox       1.00      0.20      0.33        10
+           Vladimir Putin       0.22      0.31      0.26        13
+
+                 accuracy                           0.44       647
+                macro avg       0.47      0.25      0.28       647
+             weighted avg       0.48      0.44      0.39       647
+
+Average accuracy 0.436
